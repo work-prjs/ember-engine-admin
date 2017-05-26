@@ -3,8 +3,8 @@
 
 module.exports = function(environment) {
   const ENV = {
-      modulePrefix: 'ember-engine-admin',
-      environment: environment
+    modulePrefix: 'ember-engine-admin',
+    environment: environment
   }
 
   return ENV;
